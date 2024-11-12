@@ -1,4 +1,6 @@
-package com.example.demo.domain;
+package com.example.demo.domain.internetcafe;
+
+import com.example.demo.domain.internetcafe.Game;
 
 public class PCGames implements Game {
     private int idGame;

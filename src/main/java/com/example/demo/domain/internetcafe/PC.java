@@ -1,4 +1,6 @@
-package com.example.demo.domain;
+package com.example.demo.domain.internetcafe;
+
+import com.example.demo.domain.internetcafe.Device;
 
 public class PC implements Device {
     private int idDev;

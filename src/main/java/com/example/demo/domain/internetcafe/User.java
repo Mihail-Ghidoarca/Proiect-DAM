@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.example.demo.domain.internetcafe;
 
 public class User {
     private int idUser;
@@ -13,7 +13,6 @@ public class User {
     public enum Status {
         ACTIVE,
         INACTIVE,
-        BANNED
     }
 
     // Constructor
