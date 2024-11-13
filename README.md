@@ -1,4 +1,4 @@
-# Proiect-DAM
+# Proiect-DAM Aplicatie de management Internet Cafe
 users(
  iduser pk
  username,
